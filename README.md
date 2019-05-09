@@ -1,3 +1,3 @@
 # mini-stack
 express,angularjs,mongodb
-#to do up for practice
+#to do app for practice
